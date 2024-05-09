@@ -10,6 +10,9 @@ body {
     font-weight: 250;
     font-size: small;
   }
+  #thankYou {
+    font-weight: 600;
+  }
   ul {
     color: #fff;
     line-height: 1.5;
@@ -33,6 +36,11 @@ body {
     align-items: center;
     justify-content: space-between;
   }
+
+nav a {
+text-decoration: none;
+color: white;
+}
 
 .logo {
   margin-left: 10px;
