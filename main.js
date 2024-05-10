@@ -1,5 +1,5 @@
 function myFunction() {
-    document.getElementById("thankYou").innerHTML = "Thank you for contacting me! Can't wait to connect soon."
+    document.getElementById("thankYou").innerHTML = "Thank you for reaching out! Can't wait to connect with you soon."
 }
 
 document.addEventListener('DOMContentLoaded', function () {

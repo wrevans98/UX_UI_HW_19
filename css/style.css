@@ -12,6 +12,7 @@ body {
   }
   #thankYou {
     font-weight: 600;
+
   }
   ul {
     color: #fff;
@@ -41,6 +42,11 @@ nav a {
 text-decoration: none;
 color: white;
 }
+
+a {
+  text-decoration: none;
+  color: white;
+  }
 
 .logo {
   margin-left: 10px;
@@ -250,6 +256,9 @@ nav ul li {
       padding-left: 50px;
       margin: 0% auto;
       display: flex;
-      align-items: center;
+      align-items: top;
       justify-content: space-between;
+    }
+    .backtoTop {
+      text-align: center;
     }
